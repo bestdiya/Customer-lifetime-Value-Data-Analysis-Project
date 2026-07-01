@@ -1,4 +1,4 @@
-# FINAL-PROJECT
+# Cuatomer Lifetime Value prediction Project(Data Analysis)
 
 ---
 
