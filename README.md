@@ -1,4 +1,4 @@
-# Cuatomer Lifetime Value prediction Project(Data Analysis)
+# Customer Lifetime Value prediction Project(Data Analysis)
 
 ---
 
